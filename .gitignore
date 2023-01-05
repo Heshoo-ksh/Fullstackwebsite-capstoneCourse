@@ -1,0 +1,18 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> common editor and operating system files ###
+.DS_Store
+._*
+.idea
+.vs
+.vscode/launch.json
+###< common editor and operating system files ###
